@@ -5,8 +5,6 @@ import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
-
-import Verizon.Verizonwireless.def.main;
 import io.github.bonigarcia.wdm.WebDriverManager;
 
 public class flipcart {
